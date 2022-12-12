@@ -1,5 +1,4 @@
-name: Update Readme
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+name: README build
 on: 
   push:
     branches:
@@ -8,7 +7,6 @@ on:
     - cron: '0 */6 * * *'
 
 jobs:
-  Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout current repository to Master branch
