@@ -28,15 +28,15 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<a href="https://vitejs.dev/"><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" /></a>
-<a href="https://vitejs.dev/"><img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" /></a>
+<a href=""><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" /></a>
+<a href=""><img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" /></a>
 </p>
 
-today is Tuesday, December 13, 7:31 AM GMT+7
+today is Tuesday, December 13, 8:16 AM GMT+7
 
 ### 📊 Github Stats
 <a href='https://github.com/icedzax'>
   
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=icedzax&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icedzax&layout=compact)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=icedzax&show_icons=true) 
 
 </a>
