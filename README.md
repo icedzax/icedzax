@@ -30,9 +30,10 @@
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <a href=""><img alt="Microsoft SQL Server" src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" /></a>
 <a href=""><img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" /></a>
+<a href=""><img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white" /></a>
 </p>
 
-today is Tuesday, December 13, 8:17 AM GMT+7
+today is Tuesday, December 13, 11:53 AM GMT+7
 
 ### 📊 Github Stats
 <a href='https://github.com/icedzax'>
