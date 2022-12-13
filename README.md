@@ -32,11 +32,12 @@
 <a href=""><img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" /></a>
 </p>
 
-today is Tuesday, December 13, 8:16 AM GMT+7
+today is Tuesday, December 13, 8:17 AM GMT+7
 
 ### 📊 Github Stats
 <a href='https://github.com/icedzax'>
   
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=icedzax&show_icons=true) 
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icedzax&layout=compact)
 </a>
