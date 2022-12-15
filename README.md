@@ -33,7 +33,7 @@
 <a href=""><img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=Supabase&logoColor=white" /></a>
 </p>
 
-today is Thursday, December 15, 1:07 PM GMT+7
+today is Thursday, December 15, 1:17 PM GMT+7
 
 ### 📊 Github Stats
 <a href='https://github.com/icedzax'>
@@ -42,3 +42,5 @@ today is Thursday, December 15, 1:07 PM GMT+7
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icedzax&layout=compact)
 </a>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=icedzax)
